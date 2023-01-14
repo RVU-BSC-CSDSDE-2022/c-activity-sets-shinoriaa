@@ -1,4 +1,6 @@
-include<stdio.h>
+#include<stdio.h>
 int main()
-printf("My name is shinoria.");
-return 0;
+{
+  printf("My name is Shinoria");
+  return 0;
+}
